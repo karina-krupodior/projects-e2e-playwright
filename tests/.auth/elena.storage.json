@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "Karinochka",
+      "value": "this is my cookie testing",
+      "domain": "demo.learnwebdriverio.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://demo.learnwebdriverio.com",
+      "localStorage": [
+        {
+          "name": "id_token",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MWM1M2UyZGI0MTIyYTUwNGYzMTBiMiIsInVzZXJuYW1lIjoiZWxlbmEiLCJleHAiOjE3MzUwOTM3MzEsImlhdCI6MTcyOTkwOTczMX0.MWjXDan7zaJxJo1e4nljVe64AQMzfcT1PXXDfxHYuM8"
+        }
+      ]
+    }
+  ]
+}

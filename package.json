@@ -3,12 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "rztk": "npx playwright test --project=rztk",
+    "coffee-cart": "npx playwright test --project=coffee-cart"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.47.0",
     "@types/node": "^22.4.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "fs-js": "^1.0.6"
   }
 }

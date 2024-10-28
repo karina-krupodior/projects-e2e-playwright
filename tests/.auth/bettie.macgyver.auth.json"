@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "Karinochka",
+      "value": "this is my cookie testing",
+      "domain": "demo.learnwebdriverio.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
